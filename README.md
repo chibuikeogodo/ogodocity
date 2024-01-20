@@ -1,4 +1,4 @@
-<h1>Hi, I'm Chibuike! <br/><a href="https://github.com/ogodocity">Programmer</a>, <a href="https://www.linkedin.com/in/chibuike-ogodo">Data Analyst</a>, <a href="https://www.linkedin.com/in/chibuike-ogodo">Data Scientist</a>,<a href="https://www.linkedin.com/in/chibuike-ogodo"> Data Admin</a></h1>
+<h1>Hi, I'm Chibuike! <br/><a href="https://github.com/ogodocity">Python Programmer</a>, <a href="https://www.linkedin.com/in/chibuike-ogodo">Data Analyst</a>, <a href="https://www.linkedin.com/in/chibuike-ogodo">Data Scientist</a>,<a href="https://www.linkedin.com/in/chibuike-ogodo"> SQL Developer</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
